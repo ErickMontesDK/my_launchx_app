@@ -1,0 +1,23 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "Ejercicio de la semana 3 BackEnd JS-1. Creación de Proyectos en JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickMontesDK/my_launchx_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickMontesDK/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/ErickMontesDK/my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
